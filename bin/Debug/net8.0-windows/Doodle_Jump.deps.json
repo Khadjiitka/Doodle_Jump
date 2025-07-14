@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Doodle_Jump/1.0.0": {
+        "runtime": {
+          "Doodle_Jump.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Doodle_Jump/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Gidroid\source\repos\Doodle_Jump\bin\Debug\net8.0-windows\Doodle_Jump.exe
+C:\Users\Gidroid\source\repos\Doodle_Jump\bin\Debug\net8.0-windows\Doodle_Jump.deps.json
+C:\Users\Gidroid\source\repos\Doodle_Jump\bin\Debug\net8.0-windows\Doodle_Jump.runtimeconfig.json
+C:\Users\Gidroid\source\repos\Doodle_Jump\bin\Debug\net8.0-windows\Doodle_Jump.dll
+C:\Users\Gidroid\source\repos\Doodle_Jump\bin\Debug\net8.0-windows\Doodle_Jump.pdb
+C:\Users\Gidroid\source\repos\Doodle_Jump\obj\Debug\net8.0-windows\Doodle_Jump.Form1.resources
+C:\Users\Gidroid\source\repos\Doodle_Jump\obj\Debug\net8.0-windows\Doodle_Jump.Properties.Resources.resources
+C:\Users\Gidroid\source\repos\Doodle_Jump\obj\Debug\net8.0-windows\Doodle_Jump.csproj.GenerateResource.cache
+C:\Users\Gidroid\source\repos\Doodle_Jump\obj\Debug\net8.0-windows\Doodle_Jump.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gidroid\source\repos\Doodle_Jump\obj\Debug\net8.0-windows\Doodle_Jump.AssemblyInfoInputs.cache
+C:\Users\Gidroid\source\repos\Doodle_Jump\obj\Debug\net8.0-windows\Doodle_Jump.AssemblyInfo.cs
+C:\Users\Gidroid\source\repos\Doodle_Jump\obj\Debug\net8.0-windows\Doodle_Jump.csproj.CoreCompileInputs.cache
+C:\Users\Gidroid\source\repos\Doodle_Jump\obj\Debug\net8.0-windows\Doodle_Jump.dll
+C:\Users\Gidroid\source\repos\Doodle_Jump\obj\Debug\net8.0-windows\refint\Doodle_Jump.dll
+C:\Users\Gidroid\source\repos\Doodle_Jump\obj\Debug\net8.0-windows\Doodle_Jump.pdb
+C:\Users\Gidroid\source\repos\Doodle_Jump\obj\Debug\net8.0-windows\Doodle_Jump.genruntimeconfig.cache
+C:\Users\Gidroid\source\repos\Doodle_Jump\obj\Debug\net8.0-windows\ref\Doodle_Jump.dll
